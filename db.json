@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "9368f7f1-d242-4f4f-8c26-583aa9cf64cc",
+      "title": "HTML5 Öğren",
+      "status": "important",
+      "date": "26.01.2024"
+    },
+    {
+      "id": "8f7af6f6-171c-466b-bbb5-e126fb677ea8",
+      "title": "CSS ",
+      "status": "daily",
+      "date": "26.01.2024"
+    },
+    {
+      "id": "1e341892-a77e-4960-a083-1204318a04ca",
+      "title": "javascript",
+      "status": "job",
+      "date": "26.01.2024"
+    },
+    {
+      "id": "144726df-6343-4c2c-a949-0abe03529557",
+      "title": "merhaba",
+      "status": "Varsayılan",
+      "date": "26.01.2024"
+    }
+  ]
+}
